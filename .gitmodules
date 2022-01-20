@@ -1,0 +1,4 @@
+[submodule "supportiberia/extra_addons"]
+	path = supportiberia/extra_addons
+	url = git@github.com:supportiberia/extra_addons.git
+	branch = 14.0
