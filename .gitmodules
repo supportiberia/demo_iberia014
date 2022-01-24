@@ -2,3 +2,8 @@
 	path = supportiberia/extra_addons
 	url = git@github.com:supportiberia/extra_addons.git
 	branch = 14.0
+
+[submodule "OCA/account-financial-reporting"]
+	path = OCA/account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 14.0
